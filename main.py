@@ -1,4 +1,4 @@
 #!/bin/python
 
-print("Hello, world!")
+print("Hello, world. Okay, now goodbye world.")
 print("Goodbye, world!")
